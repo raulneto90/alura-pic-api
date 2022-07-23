@@ -3,18 +3,18 @@
 
 Api desenvolvida no curso API Rest com NestJS: busca, validação, serialização e detalhes arquiteturais ministrado pela Alura.
 
-## Funcionalidades
+## :pencil: Funcionalidades
 
 - Cadastro de usuários
 - Busca de usuário pelo username
 
 
-## Stack utilizada
+## :computer: Stack utilizada
 
 **Back-end:** Node, NestJS
 
 
-## Como baixar e utilizar o projeto
+## :floppy_disk: Como baixar e utilizar o projeto
 
 Para baixar e utilizar o projeto, é necessário que tenha instalado o NodeJS e o PNPM.
 No seu terminal rode:
@@ -35,7 +35,3 @@ Execute a aplicação:
 ```bash
   pnpm start: dev
 ```
-
-## Autores
-
-- [@raulneto90](https://www.github.com/raulneto90)
